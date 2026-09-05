@@ -11,12 +11,16 @@ Interactive Power BI dashboard analyzing 50,000+ student placement records. Trac
    Power BI (DAX, data modeling, interactive visuals) | Excel (data cleaning) | SQL (data extraction & querying) | Data Analysis | Data Visualization
    
 ### Features and Highlights
-   
--Time waste: Placement cells manually filtering spreadsheets to answer basic questions — this dashboard answers them instantly.
--Lack of visibility: Hard to see which majors, genders, or student groups are placed less — now it's broken down clearly.
--No salary benchmarking: Students and colleges couldn't easily compare starting salaries across majors — now visualized directly.
--Unclear impact of extra curriculars: Whether internships, certifications, or GitHub/LinkedIn activity actually help placement wasn't obvious — now filterable and comparable Disconnected.
--soft-skill data: Teamwork and problem-solving scores weren't tied to outcomes — this dashboard links them to placed vs. not-placed students.
+#### Time waste: 
+Placement cells manually filtering spreadsheets to answer basic questions — this dashboard answers them instantly.
+#### Lack of visibility: 
+Hard to see which majors, genders, or student groups are placed less — now it's broken down clearly.
+#### No salary benchmarking: 
+Students and colleges couldn't easily compare starting salaries across majors — now visualized directly.
+#### Unclear impact of extra curriculars:
+Whether internships, certifications, or GitHub/LinkedIn activity actually help placement wasn't obvious — now filterable and comparable Disconnected.
+#### soft-skill data: 
+Teamwork and problem-solving scores weren't tied to outcomes — this dashboard links them to placed vs. not-placed students.
 
 ### Data Source
    
