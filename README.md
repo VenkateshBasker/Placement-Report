@@ -1,16 +1,16 @@
 # Placement-Report
 ##  Students PLacement Report
 
-### Description
+## Description
   Built a Student Placements Analytics Dashboard using Power BI
 Placement teams often struggle to answer simple questions fast: Which majors are landing the best salaries? Are certain student groups placed less than others? Is CGPA actually correlated with getting placed? Without a live dashboard, this usually means digging through spreadsheets for hours.
 Interactive Power BI dashboard analyzing 50,000+ student placement records. Tracks placement rate, salary, CGPA, and age; breaks down outcomes by major, gender, internships &amp; certifications. Built with Power BI, DAX, Excel, and SQL.
 
-### Tools & Skills used:
+## Tools & Skills used:
    
    Power BI (DAX, data modeling, interactive visuals) | Excel (data cleaning) | SQL (data extraction & querying) | Data Analysis | Data Visualization
    
-### Features and Highlights
+## Features and Highlights
 #### Time waste: 
 Placement cells manually filtering spreadsheets to answer basic questions — this dashboard answers them instantly.
 #### Lack of visibility: 
@@ -22,10 +22,10 @@ Whether internships, certifications, or GitHub/LinkedIn activity actually help p
 #### soft-skill data: 
 Teamwork and problem-solving scores weren't tied to outcomes — this dashboard links them to placed vs. not-placed students.
 
-### Data Source
+## Data Source
    
    kaggle.com
    data on 50000 students career records and placement records
    
-### Screenshot / Demos
+## Screenshot / Demos
 ![Students Placement Report](https://github.com/VenkateshBasker/Placement-Report/blob/main/Snapchat%20of%20Placement%20Report.png).
