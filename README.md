@@ -15,4 +15,4 @@ Disconnected soft-skill data: Teamwork and problem-solving scores weren't tied t
    kaggle.com
    data on 50000 students career records and placement records
 6. Screenshot / Demos
-   Preview :   
+   Preview :   https://github.com/VenkateshBasker/Placement-Report/blob/main/Snapchat%20of%20Placement%20Report.png
