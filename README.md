@@ -23,5 +23,5 @@ Unclear impact of extra curriculars: Whether internships, certifications, or Git
    data on 50000 students career records and placement records
    
 ### 6. Screenshot / Demos
-Show what the dashboard looks Like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview].(https://github.com/VenkateshBasker/Placement-Report/blob/main/Snapchat%20of%20Placement%20Report.png).
