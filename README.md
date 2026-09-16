@@ -190,9 +190,4 @@ The dashboard enables users to identify patterns and differences in placement ou
 
 ## Project Files
 
-```text
-Placement-Report/
-│
-├── Placement.pbix
-├── README.md
-└── Snapchat of Placement Report.png
+![https://github.com/VenkateshBasker/Placement-Report/blob/main/Placement.pbix]
