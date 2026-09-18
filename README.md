@@ -190,5 +190,5 @@ The dashboard enables users to identify patterns and differences in placement ou
 
 ## Project Files
 
-!(https://github.com/VenkateshBasker/Placement-Report/blob/main/Placement.pbix)
+![Student Placement Analytics Dashboard](https://github.com/VenkateshBasker/Placement-Report/blob/main/Placement.pbix)
 
